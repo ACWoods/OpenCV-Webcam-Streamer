@@ -1,0 +1,18 @@
+﻿Build started 4/13/2015 8:17:30 PM.
+     1>Project "C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\OpenCVServer\OpenCVServer.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\OPENCV\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\OpenCVServer.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\OPENCV\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\OpenCVServer.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt OpenCVProjectServer.cpp
+         OpenCVProjectServer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\x64\Release\OpenCVServer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\OPENCV\opencv\build\x64\vc11\lib ws2_32.lib opencv_calib3d2411.lib opencv_calib3d2411d.lib opencv_contrib2411.lib opencv_contrib2411d.lib opencv_core2411.lib opencv_core2411d.lib opencv_features2d2411.lib opencv_features2d2411d.lib opencv_flann2411.lib opencv_flann2411d.lib opencv_gpu2411.lib opencv_gpu2411d.lib opencv_highgui2411.lib opencv_highgui2411d.lib opencv_imgproc2411.lib opencv_imgproc2411d.lib opencv_legacy2411.lib opencv_legacy2411d.lib opencv_ml2411.lib opencv_ml2411d.lib opencv_nonfree2411.lib opencv_nonfree2411d.lib opencv_objdetect2411.lib opencv_objdetect2411d.lib opencv_ocl2411.lib opencv_ocl2411d.lib opencv_photo2411.lib opencv_photo2411d.lib opencv_stitching2411.lib opencv_stitching2411d.lib opencv_superres2411.lib opencv_superres2411d.lib opencv_ts2411.lib opencv_ts2411d.lib opencv_video2411.lib opencv_video2411d.lib opencv_videostab2411.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\x64\Release\OpenCVServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\x64\Release\OpenCVServer.lib" /MACHINE:X64 x64\Release\OpenCVProjectServer.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         OpenCVServer.vcxproj -> C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\x64\Release\OpenCVServer.exe
+     1>Done Building Project "C:\Users\Woods\Documents\Visual Studio 2012\Projects\OpenCVProject\OpenCVServer\OpenCVServer.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.79

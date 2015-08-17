@@ -1,0 +1,11 @@
+﻿Build started 4/6/2015 12:40:04 AM.
+     1>Project "C:\Users\Woods\documents\visual studio 2012\Projects\OpenCVProject\OpenCVProject\OpenCVProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Woods\documents\visual studio 2012\Projects\OpenCVProject\Debug\OpenCVClient.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OPENCV\opencv\build\x64\vc11\lib opencv_calib3d2411.lib opencv_calib3d2411d.lib opencv_contrib2411.lib opencv_contrib2411d.lib opencv_core2411.lib opencv_core2411d.lib opencv_features2d2411.lib opencv_features2d2411d.lib opencv_flann2411.lib opencv_flann2411d.lib opencv_gpu2411.lib opencv_gpu2411d.lib opencv_highgui2411.lib opencv_highgui2411d.lib opencv_imgproc2411.lib opencv_imgproc2411d.lib opencv_legacy2411.lib opencv_legacy2411d.lib opencv_ml2411.lib opencv_ml2411d.lib opencv_nonfree2411.lib opencv_nonfree2411d.lib opencv_objdetect2411.lib opencv_objdetect2411d.lib opencv_ocl2411.lib opencv_ocl2411d.lib opencv_photo2411.lib opencv_photo2411d.lib opencv_stitching2411.lib opencv_stitching2411d.lib opencv_superres2411.lib opencv_superres2411d.lib opencv_ts2411.lib opencv_ts2411d.lib opencv_video2411.lib opencv_video2411d.lib opencv_videostab2411.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Woods\documents\visual studio 2012\Projects\OpenCVProject\Debug\OpenCVClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Woods\documents\visual studio 2012\Projects\OpenCVProject\Debug\OpenCVClient.lib" /MACHINE:X64 Debug\OpenCVProjectClient.obj
+         Debug\stdafx.obj
+     1>Debug\OpenCVProjectClient.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "C:\Users\Woods\documents\visual studio 2012\Projects\OpenCVProject\OpenCVProject\OpenCVProject.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50
